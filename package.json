@@ -1,0 +1,7 @@
+{
+  "name": "test_types-jsdom",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@types/jsdom": "^11.0.0"
+  }
+}
